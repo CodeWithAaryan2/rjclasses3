@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RJ Tutorials, Chembur | Class 8–12 tuition, NEET, JEE &amp; MHT-CET coaching</title>
+<meta name="description" content="RJ Tutorials, Chembur: tuition for Class 8, 10 and junior college (Science & Commerce) for SSC, ICSE and CBSE, plus NEET, MHT-CET and JEE preparation. Next to Cubic Mall, Dr. C.G. Road. Call 88795 52477.">
+<!-- Demo only: remove the next line when this goes live on RJ Tutorials' own domain -->
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#14233F">
+<meta property="og:type" content="website">
+<meta property="og:title" content="RJ Tutorials, Chembur">
+<meta property="og:description" content="Class 8–12 tuition for SSC, ICSE and CBSE, and NEET, MHT-CET and JEE preparation, next to Cubic Mall, Chembur.">
+<meta property="og:locale" content="en_IN">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&family=Kalam:wght@400;700&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "RJ Tutorials",
+  "description": "Tuition for Class 8, Class 10 and junior college (Science and Commerce) for SSC, ICSE and CBSE students, with NEET, MHT-CET and JEE (Main and Advanced) preparation.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "204, Vasant Vihar Complex, next to Cubic Mall, Dr. C.G. Road",
+    "addressLocality": "Chembur, Mumbai",
+    "addressRegion": "Maharashtra",
+    "postalCode": "400079",
+    "addressCountry": "IN"
+  },
+  "telephone": ["+91-8879552477", "+91-7568346756"],
+  "email": "jainneelima.12@gmail.com",
+  "areaServed": "Chembur, Mumbai",
+  "founder": [{"@type": "Person", "name": "Dr. Rohit Jain"}, {"@type": "Person", "name": "Neelima Jain"}]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Which classes does RJ Tutorials teach?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Class 8, Class 10 and junior college (Class 11 and 12) in Science and Commerce."}},
+    {"@type": "Question", "name": "Which boards do you cover?",
+     "acceptedAnswer": {"@type": "Answer", "text": "SSC (Maharashtra State Board), ICSE and CBSE."}},
+    {"@type": "Question", "name": "Do you prepare students for NEET, MHT-CET and JEE?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Yes. RJ Tutorials prepares students for NEET, MHT-CET, and JEE Main and Advanced."}},
+    {"@type": "Question", "name": "Where is RJ Tutorials?",
+     "acceptedAnswer": {"@type": "Answer", "text": "204, Vasant Vihar Complex, next to Cubic Mall, Dr. C.G. Road, Chembur, Mumbai 400079."}},
+    {"@type": "Question", "name": "How do I ask about batches and fees?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Send a WhatsApp message or call 88795 52477 or 75683 46756. You can also visit the centre in person."}}
+  ]
+}
+</script>
+
+<style>
+  :root{
+    --paper:#FBFCFE;
+    --ink:#14233F;
+    --ink-soft:#4A5878;
+    --royal:#2F4FD8;
+    --royal-deep:#2340B8;
+    --margin:#D2453B;
+    --rule:#DCE4F5;
+    --hl:#FFE15A;
+    --line:28px;
+    --wrap:1120px;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;background:var(--paper);color:var(--ink);
+    font-family:"Hind",system-ui,sans-serif;font-size:18px;line-height:var(--line);
+  }
+  img{max-width:100%;display:block}
+  a{color:var(--royal)}
+  a:focus-visible,button:focus-visible,summary:focus-visible,.chip input:focus-visible+span{
+    outline:3px solid var(--royal);outline-offset:3px;border-radius:6px;
+  }
+  .wrap{max-width:var(--wrap);margin:0 auto;padding:0 20px}
+
+  /* demo notice */
+  .demo{background:var(--ink);color:#fff;font-size:14px;line-height:20px;padding:8px 0}
+  .demo .wrap{display:flex;gap:12px;justify-content:space-between;flex-wrap:wrap}
+  .demo a{color:#fff}
+
+  /* header */
+  header.site{border-bottom:1px solid var(--rule);background:var(--paper)}
+  header.site .wrap{display:flex;align-items:center;justify-content:space-between;min-height:68px;gap:16px}
+  .brand{display:flex;flex-direction:column;text-decoration:none;color:var(--ink)}
+  .brand strong{font-size:24px;line-height:28px;font-weight:700;letter-spacing:-.01em}
+  .brand span{font-size:15px;line-height:18px;color:var(--ink-soft)}
+  .head-call{font-weight:600;text-decoration:none;color:var(--ink);font-size:17px;white-space:nowrap;
+    padding:10px 14px;border:1.5px solid var(--ink);border-radius:999px;min-height:44px;display:inline-flex;align-items:center}
+  .head-call:hover{background:var(--ink);color:#fff}
+
+  /* notebook page */
+  .page{position:relative}
+  @media (min-width:900px){
+    .page{
+      background-image:linear-gradient(var(--rule) 1px, transparent 1px);
+      background-size:100% var(--line);
+    }
+    .page::before{ /* red margin line */
+      content:"";position:absolute;top:0;bottom:0;left:max(20px, calc((100vw - var(--wrap))/2 + 96px));
+      border-left:2px solid var(--margin);opacity:.55;pointer-events:none;
+    }
+    .with-margin{padding-left:124px}
+  }
+
+  /* handwritten notes in red pen (demo annotations for the client) */
+  .note{font-family:"Kalam",cursive;color:var(--margin);font-size:18px;line-height:24px;display:block}
+  @media (min-width:900px){
+    .note.side{position:absolute;left:0;width:104px;transform:rotate(-3deg);font-size:16px;line-height:20px}
+  }
+
+  /* hero */
+  .hero{padding:44px 0 56px;position:relative}
+  h1{font-size:clamp(34px,6vw,58px);line-height:1.04;font-weight:700;letter-spacing:-.02em;margin:0 0 18px;max-width:17ch}
+  .hero p.lede{font-size:20px;line-height:30px;color:var(--ink-soft);margin:0 0 32px;max-width:46ch}
+
+  /* enquiry builder: the one memorable thing */
+  .builder{background:#fff;border:1.5px solid var(--ink);border-radius:14px;padding:22px 20px 20px;max-width:760px;
+    box-shadow:6px 6px 0 var(--ink)}
+  .builder h2{font-size:20px;line-height:26px;margin:0 0 6px;font-weight:600}
+  .builder .hint{margin:0 0 16px;color:var(--ink-soft);font-size:16px;line-height:24px}
+  .sentence{font-size:21px;line-height:44px;margin:0}
+  .sentence fieldset{border:0;padding:0;margin:0;min-width:0;display:contents}
+  .sentence legend{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  .chip{display:inline-block;margin:2px 2px}
+  .chip input{position:absolute;opacity:0;width:1px;height:1px}
+  .chip span{
+    display:inline-block;padding:2px 12px;border-radius:8px;border:1.5px dashed var(--ink-soft);
+    line-height:32px;font-size:18px;cursor:pointer;user-select:none;background:#fff;color:var(--ink);
+    min-height:38px;transition:background-color .15s ease;
+  }
+  .chip input:checked+span{background:var(--hl);border-style:solid;border-color:var(--ink);font-weight:600}
+  .chip span:hover{border-color:var(--ink)}
+  .preview{margin:18px 0 14px;padding:12px 14px;background:#EAF7EE;border-radius:10px 10px 10px 2px;
+    font-size:16px;line-height:24px;color:#1E3A2A;max-width:60ch}
+  .preview b{display:block;font-size:14px;font-weight:600;color:#2E6B44}
+  .actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 20px;
+    border-radius:999px;font:600 17px/1 "Hind",sans-serif;text-decoration:none;border:0;cursor:pointer}
+  .btn-wa{background:#1F8A4C;color:#fff}
+  .btn-wa:hover{background:#18723E}
+  .btn-line{background:transparent;color:var(--ink);border:1.5px solid var(--ink)}
+  .btn-line:hover{background:var(--ink);color:#fff}
+  .btn svg{width:20px;height:20px;flex:none}
+
+  /* sections */
+  section{padding:56px 0;position:relative}
+  h2.sec{font-size:clamp(28px,4vw,38px);line-height:1.15;margin:0 0 12px;letter-spacing:-.01em;font-weight:700}
+  .sec-intro{margin:0 0 28px;color:var(--ink-soft);max-width:58ch;font-size:19px}
+
+  /* syllabus card */
+  .syllabus{display:grid;grid-template-columns:1fr;gap:0;border:1.5px solid var(--ink);border-radius:12px;background:#fff;overflow:hidden}
+  .syl-col{padding:18px 20px;border-bottom:1px solid var(--rule)}
+  .syl-col:last-child{border-bottom:0}
+  .syl-col h3{margin:0 0 8px;font-size:17px;line-height:24px;font-weight:600;color:var(--ink-soft)}
+  .syl-col ul{list-style:none;margin:0;padding:0}
+  .syl-col li{font-size:21px;line-height:34px;font-weight:600}
+  .syl-col li small{display:block;font-size:15px;line-height:20px;font-weight:400;color:var(--ink-soft);margin:-4px 0 6px}
+  @media (min-width:760px){
+    .syllabus{grid-template-columns:repeat(4,1fr)}
+    .syl-col{border-bottom:0;border-right:1px solid var(--rule)}
+    .syl-col:last-child{border-right:0}
+  }
+
+  /* tutorial purpose */
+  .two{display:grid;gap:28px}
+  @media (min-width:860px){.two{grid-template-columns:1.1fr .9fr;align-items:start}}
+  .purpose{margin:0;padding:0;list-style:none}
+  .purpose li{padding:12px 0 12px 34px;border-top:1px solid var(--rule);position:relative;font-size:19px}
+  .purpose li:last-child{border-bottom:1px solid var(--rule)}
+  .purpose li::before{content:"";position:absolute;left:4px;top:20px;width:14px;height:8px;
+    border-left:2.5px solid var(--royal);border-bottom:2.5px solid var(--royal);transform:rotate(-45deg)}
+  .mentor{background:var(--ink);color:#fff;border-radius:14px;padding:24px 22px}
+  .mentor h3{margin:0 0 8px;font-size:22px;line-height:28px}
+  .mentor p{margin:0 0 14px;color:#C9D3EA}
+  .mentor ul{margin:0;padding:0;list-style:none;display:flex;gap:8px;flex-wrap:wrap}
+  .mentor li{border:1px solid #5B6B91;border-radius:999px;padding:4px 14px;font-size:16px}
+
+  /* teachers */
+  .teachers{display:grid;gap:18px}
+  @media (min-width:700px){.teachers{grid-template-columns:1fr 1fr}}
+  .teacher{display:grid;grid-template-columns:84px 1fr;gap:16px;align-items:center;background:#fff;
+    border:1.5px solid var(--ink);border-radius:12px;padding:16px}
+  .mono{width:84px;height:84px;border-radius:50%;background:var(--rule);display:grid;place-items:center;
+    font:700 30px/1 "Hind",sans-serif;color:var(--ink)}
+  .teacher h3{margin:0;font-size:22px;line-height:28px}
+  .teacher p{margin:2px 0 0;color:var(--ink-soft);font-size:16px;line-height:24px}
+  .teacher a{font-weight:600;text-decoration:none}
+
+  /* visit */
+  .visit{display:grid;gap:22px}
+  @media (min-width:860px){.visit{grid-template-columns:1fr 1fr}}
+  address{font-style:normal;font-size:21px;line-height:32px}
+  .landmark{display:inline-block;background:var(--hl);padding:0 6px;border-radius:4px}
+  .contact-list{list-style:none;margin:16px 0 0;padding:0}
+  .contact-list li{padding:8px 0;border-top:1px solid var(--rule);display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  .contact-list a{font-weight:600;text-decoration:none}
+  .map-card{border:1.5px solid var(--ink);border-radius:12px;background:#fff;padding:20px;display:flex;flex-direction:column;gap:14px}
+  .map-card p{margin:0;color:var(--ink-soft)}
+
+  /* faq */
+  details{border-top:1px solid var(--rule);padding:4px 0}
+  details:last-of-type{border-bottom:1px solid var(--rule)}
+  summary{cursor:pointer;list-style:none;padding:12px 32px 12px 0;font-size:19px;font-weight:600;position:relative;min-height:44px}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";position:absolute;right:4px;top:8px;font-size:26px;font-weight:400;color:var(--royal)}
+  details[open] summary::after{content:"−"}
+  details p{margin:0 0 14px;color:var(--ink-soft);max-width:62ch}
+
+  /* footer */
+  footer{border-top:1.5px solid var(--ink);padding:28px 0 96px;font-size:15px;line-height:22px;color:var(--ink-soft)}
+  footer .wrap{display:flex;flex-wrap:wrap;gap:8px 28px;justify-content:space-between}
+
+  /* sticky mobile bar */
+  .sticky{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid var(--rule);padding:10px 14px;
+    display:flex;gap:10px;z-index:20;box-shadow:0 -4px 16px rgba(20,35,63,.08)}
+  .sticky .btn{flex:1}
+  @media (min-width:900px){.sticky{display:none} footer{padding-bottom:28px}}
+
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<div class="demo" role="note">
+  <div class="wrap">
+    <span>Demo website prepared by InFramee for RJ Tutorials. This is not the official RJ Tutorials site yet.</span>
+    <span>Red handwritten notes show what we still need from you.</span>
+  </div>
+</div>
+
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="RJ Tutorials, home">
+      <strong>RJ Tutorials</strong>
+      <span>Chembur, Mumbai</span>
+    </a>
+    <a class="head-call" href="tel:+918879552477">Call 88795 52477</a>
+  </div>
+</header>
+
+<main class="page" id="top">
+
+  <div class="hero">
+    <div class="wrap with-margin" style="position:relative">
+      <span class="note side" aria-hidden="true">your logo can go in the header</span>
+      <h1>Class 8 to 12 tuition and entrance preparation in Chembur</h1>
+      <p class="lede">SSC, ICSE and CBSE. Science and Commerce. NEET, MHT-CET and JEE. Next to Cubic Mall on Dr. C.G. Road.</p>
+
+      <form class="builder" id="enquiry" aria-labelledby="enq-title" onsubmit="return false">
+        <h2 id="enq-title">Ask about a batch in one message</h2>
+        <p class="hint">Tap what fits your child. We'll write the WhatsApp message for you.</p>
+
+        <div class="sentence">
+          My child is in
+          <fieldset data-group="class"><legend>Class</legend>
+            <label class="chip"><input type="radio" name="class" value="Class 8"><span>Class 8</span></label>
+            <label class="chip"><input type="radio" name="class" value="Class 10"><span>Class 10</span></label>
+            <label class="chip"><input type="radio" name="class" value="Class 11–12 Science"><span>11–12 Science</span></label>
+            <label class="chip"><input type="radio" name="class" value="Class 11–12 Commerce"><span>11–12 Commerce</span></label></fieldset>,
+          studies
+          <fieldset data-group="board"><legend>Board</legend>
+            <label class="chip"><input type="radio" name="board" value="SSC"><span>SSC</span></label>
+            <label class="chip"><input type="radio" name="board" value="ICSE"><span>ICSE</span></label>
+            <label class="chip"><input type="radio" name="board" value="CBSE"><span>CBSE</span></label></fieldset>
+          and needs help with
+          <fieldset data-group="subject"><legend>Subjects</legend>
+            <label class="chip"><input type="checkbox" name="subject" value="Maths"><span>Maths</span></label>
+            <label class="chip"><input type="checkbox" name="subject" value="Physics"><span>Physics</span></label>
+            <label class="chip"><input type="checkbox" name="subject" value="Chemistry"><span>Chemistry</span></label>
+            <label class="chip"><input type="checkbox" name="subject" value="Biology"><span>Biology</span></label>
+            <label class="chip"><input type="checkbox" name="subject" value="English"><span>English</span></label>
+            <label class="chip"><input type="checkbox" name="subject" value="NEET / MHT-CET"><span>NEET / MHT-CET</span></label>
+            <label class="chip"><input type="checkbox" name="subject" value="JEE"><span>JEE</span></label></fieldset>.
+        </div>
+
+        <div class="preview" aria-live="polite"><b>Your WhatsApp message</b><span id="msg"></span></div>
+
+        <div class="actions">
+          <a class="btn btn-wa" id="wa" href="#" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2c-1.6 0-3.1-.4-4.4-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.4.1-.7.3-.2.3-.9.9-.9 2.2s.9 2.5 1 2.7c.1.2 1.8 2.8 4.4 3.9 1.6.7 2.3.8 3.1.6.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2-.1 0-.3-.1-.5-.2Z"/></svg>
+            <span id="wa-label">Send on WhatsApp</span>
+          </a>
+          <a class="btn btn-line" href="tel:+918879552477">Call instead</a>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <section id="courses" aria-labelledby="courses-h">
+    <div class="wrap with-margin" style="position:relative">
+      <span class="note side" aria-hidden="true">batch timings &amp; fees go here once you share them</span>
+      <h2 class="sec" id="courses-h">What we teach</h2>
+      <p class="sec-intro">School tuition for three boards, junior college in two streams, and coaching for the main entrance exams.</p>
+      <div class="syllabus">
+        <div class="syl-col">
+          <h3>Classes</h3>
+          <ul><li>Class 8</li><li>Class 10</li><li>Class 11 &amp; 12<small>Junior college</small></li></ul>
+        </div>
+        <div class="syl-col">
+          <h3>Boards</h3>
+          <ul><li>SSC<small>Maharashtra State Board</small></li><li>ICSE</li><li>CBSE</li></ul>
+        </div>
+        <div class="syl-col">
+          <h3>Subjects</h3>
+          <ul><li>Maths</li><li>Physics</li><li>Chemistry</li><li>Biology</li><li>English</li></ul>
+        </div>
+        <div class="syl-col">
+          <h3>Streams &amp; entrance exams</h3>
+          <ul><li>Science</li><li>Commerce</li><li>NEET</li><li>MHT-CET</li><li>JEE Main &amp; Advanced</li></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="approach" aria-labelledby="approach-h">
+    <div class="wrap with-margin">
+      <div class="two">
+        <div>
+          <h2 class="sec" id="approach-h">What a tutorial here is for</h2>
+          <p class="sec-intro">Smaller and more interactive than a lecture. Students talk a topic through until it makes sense.</p>
+          <ul class="purpose">
+            <li>Clear up what was confusing in school</li>
+            <li>Go deeper into a topic through discussion</li>
+            <li>Try out answers and ideas out loud</li>
+            <li>Hear more than one way to solve a problem</li>
+            <li>Build thinking, listening and discussion skills</li>
+          </ul>
+        </div>
+        <aside class="mentor" aria-labelledby="mentor-h">
+          <h3 id="mentor-h">Guidance beyond class hours</h3>
+          <p>We point students to the right resources for their board and exam, and stay in touch with students and parents through the year.</p>
+          <ul><li>Call</li><li>Chat</li><li>Video</li></ul>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section id="teachers" aria-labelledby="teachers-h">
+    <div class="wrap with-margin" style="position:relative">
+      <span class="note side" aria-hidden="true">add photos, qualifications &amp; subjects</span>
+      <h2 class="sec" id="teachers-h">Your teachers</h2>
+      <p class="sec-intro">RJ Tutorials is run by Dr. Rohit Jain and Smt. Neelima Jain. You can reach either of them directly.</p>
+      <div class="teachers">
+        <article class="teacher">
+          <div class="mono" aria-hidden="true">RJ</div>
+          <div>
+            <h3>Dr. Rohit Jain</h3>
+            <p><a href="tel:+918879552477">88795 52477</a></p>
+          </div>
+        </article>
+        <article class="teacher">
+          <div class="mono" aria-hidden="true">NJ</div>
+          <div>
+            <h3>Smt. Neelima Jain</h3>
+            <p><a href="tel:+917568346756">75683 46756</a></p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="visit" aria-labelledby="visit-h">
+    <div class="wrap with-margin">
+      <h2 class="sec" id="visit-h">Visit the centre</h2>
+      <p class="sec-intro">Come in with your child to see the classroom and talk to the teachers before you join.</p>
+      <div class="visit">
+        <div>
+          <address>
+            RJ Tutorials<br>
+            204, Vasant Vihar Complex<br>
+            <span class="landmark">Next to Cubic Mall</span>, Dr. C.G. Road<br>
+            Chembur, Mumbai 400079
+          </address>
+          <ul class="contact-list">
+            <li><span>Dr. Rohit Jain</span><a href="tel:+918879552477">88795 52477</a></li>
+            <li><span>Smt. Neelima Jain</span><a href="tel:+917568346756">75683 46756</a></li>
+            <li><span>Email</span><a href="mailto:jainneelima.12@gmail.com">jainneelima.12@gmail.com</a></li>
+          </ul>
+        </div>
+        <div class="map-card">
+          <p>Vasant Vihar Complex is right beside Cubic Mall on Dr. C.G. Road.</p>
+          <a class="btn btn-line" href="https://www.google.com/maps/search/?api=1&amp;query=Vasant+Vihar+Complex+Cubic+Mall+Dr+C+G+Road+Chembur+Mumbai+400079" target="_blank" rel="noopener">Open in Google Maps</a>
+          <span class="note" aria-hidden="true">we'll link your Google Business Profile here</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq" aria-labelledby="faq-h">
+    <div class="wrap with-margin">
+      <h2 class="sec" id="faq-h">Questions parents ask</h2>
+      <details><summary>Which classes do you teach?</summary><p>Class 8, Class 10 and junior college (Class 11 and 12) in Science and Commerce.</p></details>
+      <details><summary>Which boards do you cover?</summary><p>SSC (Maharashtra State Board), ICSE and CBSE.</p></details>
+      <details><summary>Do you prepare students for NEET, MHT-CET and JEE?</summary><p>Yes. We prepare students for NEET, MHT-CET, and JEE Main and Advanced.</p></details>
+      <details><summary>Where exactly is the centre?</summary><p>204, Vasant Vihar Complex, next to Cubic Mall, Dr. C.G. Road, Chembur, Mumbai 400079.</p></details>
+      <details><summary>How do I ask about batches and fees?</summary><p>Send us a WhatsApp message using the form at the top of this page, or call 88795 52477 or 75683 46756.</p></details>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>RJ Tutorials, 204 Vasant Vihar Complex, Dr. C.G. Road, Chembur, Mumbai 400079</span>
+    <span>Demo by InFramee (inframee.com)</span>
+  </div>
+</footer>
+
+<div class="sticky" aria-label="Quick contact">
+  <a class="btn btn-wa" href="#enquiry">WhatsApp us</a>
+  <a class="btn btn-line" href="tel:+918879552477">Call</a>
+</div>
+
+<script>
+(function(){
+  var form=document.getElementById('enquiry');
+  var out=document.getElementById('msg');
+  var wa=document.getElementById('wa');
+  var label=document.getElementById('wa-label');
+  var PHONE='918879552477';
+
+  function build(){
+    var c=form.querySelector('input[name=class]:checked');
+    var b=form.querySelector('input[name=board]:checked');
+    var s=[].map.call(form.querySelectorAll('input[name=subject]:checked'),function(i){return i.value;});
+    var text;
+    if(!c&&!b&&!s.length){
+      text='Hello RJ Tutorials, I would like to know about your batches and fees.';
+    }else{
+      text='Hello RJ Tutorials, my child is in '+(c?c.value:'school');
+      if(b) text+=' ('+b.value+')';
+      text+=s.length?' and needs help with '+s.join(', ')+'.':'.';
+      text+=' Please share batch timings and fees.';
+    }
+    out.textContent=text;
+    wa.href='https://wa.me/'+PHONE+'?text='+encodeURIComponent(text);
+    label.textContent=(c||b||s.length)?'Send this on WhatsApp':'Send on WhatsApp';
+  }
+  form.addEventListener('change',build);
+  build();
+})();
+</script>
+</body>
+</html>
